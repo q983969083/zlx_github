@@ -5,7 +5,11 @@ tracks!
 tracks2!
 CREATE A new branch 'dev'
 <<<<<<< HEAD
+<<<<<<< HEAD
 create a new branch is quick and simple
 =======
 create a new branch is quick and simple
 >>>>>>> feature1
+=======
+merge
+>>>>>>> dev
