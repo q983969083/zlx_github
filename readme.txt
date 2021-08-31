@@ -4,4 +4,8 @@ stage!
 tracks!
 tracks2!
 CREATE A new branch 'dev'
-create a new branch is quick & simple
+<<<<<<< HEAD
+create a new branch is quick and simple
+=======
+create a new branch is quick and simple
+>>>>>>> feature1
