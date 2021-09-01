@@ -6,6 +6,7 @@ tracks2!
 CREATE A new branch 'dev'
 <<<<<<< HEAD
 <<<<<<< HEAD
+
 create a new branch is quick and simple
 create a new branch is quick and simple
 merge
